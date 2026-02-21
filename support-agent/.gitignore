@@ -1,0 +1,21 @@
+# Environment variables
+.env
+support-agent/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+mvenv/
+
+# Upload folder
+profile_uploads/
+
+# Vector databases
+vectorstores/
+
+# OS files
+.DS_Store
+Thumbs.db
